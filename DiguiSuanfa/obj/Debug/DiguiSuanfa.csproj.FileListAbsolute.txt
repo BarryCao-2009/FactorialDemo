@@ -1,0 +1,6 @@
+c:\users\white\documents\visual studio 2015\Projects\DiguiSuanfa\DiguiSuanfa\bin\Debug\DiguiSuanfa.exe.config
+c:\users\white\documents\visual studio 2015\Projects\DiguiSuanfa\DiguiSuanfa\bin\Debug\DiguiSuanfa.exe
+c:\users\white\documents\visual studio 2015\Projects\DiguiSuanfa\DiguiSuanfa\bin\Debug\DiguiSuanfa.pdb
+c:\users\white\documents\visual studio 2015\Projects\DiguiSuanfa\DiguiSuanfa\obj\Debug\DiguiSuanfa.csprojResolveAssemblyReference.cache
+c:\users\white\documents\visual studio 2015\Projects\DiguiSuanfa\DiguiSuanfa\obj\Debug\DiguiSuanfa.exe
+c:\users\white\documents\visual studio 2015\Projects\DiguiSuanfa\DiguiSuanfa\obj\Debug\DiguiSuanfa.pdb
