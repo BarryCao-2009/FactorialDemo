@@ -4,3 +4,9 @@ c:\users\white\documents\visual studio 2015\Projects\DiguiSuanfa\DiguiSuanfa\bin
 c:\users\white\documents\visual studio 2015\Projects\DiguiSuanfa\DiguiSuanfa\obj\Debug\DiguiSuanfa.csprojResolveAssemblyReference.cache
 c:\users\white\documents\visual studio 2015\Projects\DiguiSuanfa\DiguiSuanfa\obj\Debug\DiguiSuanfa.exe
 c:\users\white\documents\visual studio 2015\Projects\DiguiSuanfa\DiguiSuanfa\obj\Debug\DiguiSuanfa.pdb
+D:\工作\PROJECTS\GitTest\DiguiSuanfa\bin\Debug\DiguiSuanfa.exe.config
+D:\工作\PROJECTS\GitTest\DiguiSuanfa\obj\Debug\DiguiSuanfa.exe
+D:\工作\PROJECTS\GitTest\DiguiSuanfa\obj\Debug\DiguiSuanfa.pdb
+D:\工作\PROJECTS\GitTest\DiguiSuanfa\obj\Debug\DiguiSuanfa.csprojResolveAssemblyReference.cache
+D:\工作\PROJECTS\GitTest\DiguiSuanfa\bin\Debug\DiguiSuanfa.exe
+D:\工作\PROJECTS\GitTest\DiguiSuanfa\bin\Debug\DiguiSuanfa.pdb
